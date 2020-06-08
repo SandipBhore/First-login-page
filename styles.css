@@ -1,0 +1,18 @@
+#body{
+  background-image: url("back.jpg");
+  background-size: cover;
+  font-family: 'Bangers', cursive;}
+.innerbox{
+
+  background-color: rgba(0,0, 0, 0.5);
+  width: 40%;
+  margin: 12% auto ;
+  text-align: center;
+  color: white;
+  padding: 2% 5%;
+}
+.input{
+  width: 60%;
+  margin: 5% 15%;
+
+}
